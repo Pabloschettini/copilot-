@@ -1,0 +1,68 @@
+# 🤖 Como criar um chatbot para o Microsoft Teams usando o Microsoft 365 + Copilot
+
+Oi, pessoal! 👋  
+Neste tutorial vou explicar como criar um **chatbot para o Microsoft Teams**  Vamos usar **Power Virtual Agents** (ferramenta nativa do Microsoft 365) e o **Copilot do Microsoft 365** para nos ajudar a planejar e melhorar as respostas do bot.
+
+---
+
+## 🛠 O que você vai precisar
+
+✅ Conta no **Microsoft 365** 
+✅ Acesso ao **Microsoft Teams**
+✅ **Microsoft Copilot** 
+---
+
+## 🚀 Passos para criar o chatbot no-code
+
+### 1️⃣ Acessar o Power Virtual Agents
+
+- Entre no site: [https://powervirtualagents.microsoft.com/](https://powervirtualagents.microsoft.com/)  
+- Clique em **Iniciar sessão** com a conta do Microsoft 365.
+
+---
+
+### 2️⃣ Criar um novo bot
+
+- Clique em **Criar bot**.  
+- Escolha o nome do bot e o idioma.  
+- Espere alguns minutos enquanto o bot é configurado (o serviço roda na nuvem).
+
+---
+
+### 3️⃣ Criar os tópicos da conversa
+
+- No menu lateral, clique em **Tópicos**.  
+- Você pode usar tópicos prontos (ex: Saudação) ou criar novos.  
+- Para um novo tópico, clique em **Novo tópico** e defina as frases de gatilho (ex: `Oi`, `Olá`, `Quero ajuda`).  
+- Use a interface de arrastar para criar a resposta.  
+- 💡 **Dica:** Use o **Microsoft Copilot no Power Virtual Agents** (ícone de IA no editor) para gerar sugestões de respostas automáticas ou melhorar o texto.
+
+---
+
+### 4️⃣ Testar o bot
+
+- No editor do Power Virtual Agents, use o **painel de teste** à direita para conversar com o bot e ajustar as respostas.
+
+---
+
+### 5️⃣ Publicar e conectar ao Teams
+
+- Clique em **Publicar** no canto superior direito.  
+- Vá em **Gerenciar > Canais > Microsoft Teams**.  
+- Clique em **Configurar**, depois **Gerar link de instalação**.  
+- Use o link para adicionar o bot ao Teams (chat ou canal).
+
+---
+
+## 💡 Como o Microsoft Copilot ajuda
+
+✅ No Power Virtual Agents, o Copilot sugere fluxos de conversa completos a partir de comandos em linguagem natural (ex: `Crie um fluxo que atenda clientes que querem suporte técnico`).  
+✅ Ajuda a melhorar o tom das respostas (ex: deixar mais formal ou amigável).  
+✅ Pode gerar ideias de frases de gatilho e condições para o fluxo.
+
+---
+
+## ✅ Conclusão
+
+Com **Power Virtual Agents** e **Copilot do Microsoft 365**, você cria um chatbot funcional para o Teams. Tudo com ferramentas nativas da Microsoft!  
+
